@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.129.40.192/ipa/SogouInput-enterprise-1.0.2.ipa</string>
+					<string>http://10.129.40.192/ipa/SogouInput-test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>domain</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>10.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
